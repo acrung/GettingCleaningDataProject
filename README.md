@@ -136,4 +136,8 @@ Do the same with train files
 ###The receipt2
 1. Download everything in the repository
 2. Launch the script : source('run_analysis.R')
+<<<<<<< HEAD
 3. Wait and get the tidydata.txt file
+=======
+3. Wait and get the tidydata.txt file
+>>>>>>> b741704bb002ae711b9b52cbc4aaeabb624688fb
